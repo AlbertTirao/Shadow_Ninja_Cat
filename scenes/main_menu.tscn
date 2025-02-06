@@ -2,7 +2,7 @@
 
 [ext_resource type="FontFile" uid="uid://dqtkhlcv16x37" path="res://Fonts/HIROMISAKE.ttf" id="1_7qr3g"]
 [ext_resource type="Script" path="res://GDScript/main_menu.gd" id="1_rdpus"]
-[ext_resource type="Texture2D" uid="uid://d0px4kvtsfa2h" path="res://Assets/menubackground1.png" id="2_0j5fi"]
+[ext_resource type="Texture2D" uid="uid://d0px4kvtsfa2h" path="res://Assets/BGMenu/menubackground1.png" id="2_0j5fi"]
 [ext_resource type="FontFile" uid="uid://cr4s4hhj6cvvv" path="res://Fonts/Harukaze.ttf" id="3_s0ggg"]
 
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_3qnwe"]

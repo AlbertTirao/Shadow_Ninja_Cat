@@ -1,14 +1,14 @@
 [gd_scene load_steps=27 format=3 uid="uid://drfxu7xdj441v"]
 
 [ext_resource type="Script" path="res://GDScript/Chapter_Levels.gd" id="1_dkrgb"]
-[ext_resource type="Texture2D" uid="uid://blk2ix556chvx" path="res://Assets/Chapter_Level copy.png" id="2_84xwb"]
-[ext_resource type="Texture2D" uid="uid://c2sq387u4o2pa" path="res://Assets/temple2.png" id="3_vubwl"]
-[ext_resource type="Texture2D" uid="uid://c5wk1uotdsxkd" path="res://Assets/japanese temple.jpg" id="4_xm5o3"]
-[ext_resource type="Texture2D" uid="uid://chao3iahx2nsg" path="res://Assets/temple2 blur.png" id="5_d0fht"]
-[ext_resource type="Texture2D" uid="uid://v1cpy6t5gjbp" path="res://Assets/temple2.jpg" id="6_lvuvd"]
+[ext_resource type="Texture2D" uid="uid://blk2ix556chvx" path="res://Assets/BGMenu/Chapter_Level copy.png" id="2_84xwb"]
+[ext_resource type="Texture2D" uid="uid://c2sq387u4o2pa" path="res://Assets/BGMenu/temple2.png" id="3_vubwl"]
+[ext_resource type="Texture2D" uid="uid://c5wk1uotdsxkd" path="res://Assets/BGMenu/japanese temple.jpg" id="4_xm5o3"]
+[ext_resource type="Texture2D" uid="uid://chao3iahx2nsg" path="res://Assets/BGMenu/temple2 blur.png" id="5_d0fht"]
+[ext_resource type="Texture2D" uid="uid://v1cpy6t5gjbp" path="res://Assets/BGMenu/temple2.jpg" id="6_lvuvd"]
 [ext_resource type="FontFile" uid="uid://dqtkhlcv16x37" path="res://Fonts/HIROMISAKE.ttf" id="7_dktnb"]
-[ext_resource type="Texture2D" uid="uid://u4odrvqrp1j1" path="res://Assets/temple3 copy.webp" id="7_hmrmn"]
-[ext_resource type="Texture2D" uid="uid://c8i7e48wphh55" path="res://Assets/temple3.webp" id="8_dcde7"]
+[ext_resource type="Texture2D" uid="uid://u4odrvqrp1j1" path="res://Assets/BGMenu/temple3 copy.webp" id="7_hmrmn"]
+[ext_resource type="Texture2D" uid="uid://c8i7e48wphh55" path="res://Assets/BGMenu/temple3.webp" id="8_dcde7"]
 
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_lkkv1"]
 texture = ExtResource("2_84xwb")

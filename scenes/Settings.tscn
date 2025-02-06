@@ -1,7 +1,7 @@
 [gd_scene load_steps=10 format=3 uid="uid://dbqb3xltsqep3"]
 
 [ext_resource type="Script" path="res://GDScript/Audio_GDScript/settings.gd" id="1_vle06"]
-[ext_resource type="Texture2D" uid="uid://d0px4kvtsfa2h" path="res://Assets/menubackground1.png" id="2_0vy6q"]
+[ext_resource type="Texture2D" uid="uid://d0px4kvtsfa2h" path="res://Assets/BGMenu/menubackground1.png" id="2_0vy6q"]
 [ext_resource type="Script" path="res://GDScript/Audio_GDScript/audio.gd" id="2_lgmjq"]
 [ext_resource type="FontFile" uid="uid://dqtkhlcv16x37" path="res://Fonts/HIROMISAKE.ttf" id="4_2wljj"]
 

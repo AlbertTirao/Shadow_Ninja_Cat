@@ -1,7 +1,7 @@
 [gd_scene load_steps=9 format=3 uid="uid://cwuvypqcgyiju"]
 
 [ext_resource type="Script" path="res://GDScript/level_selection.gd" id="1_f1lxc"]
-[ext_resource type="Texture2D" uid="uid://6bef8dxqxnnt" path="res://Assets/LevelBG1.jpg" id="1_lurgr"]
+[ext_resource type="Texture2D" uid="uid://6bef8dxqxnnt" path="res://Assets/BGMenu/LevelBG1.jpg" id="1_lurgr"]
 [ext_resource type="FontFile" uid="uid://dqtkhlcv16x37" path="res://Fonts/HIROMISAKE.ttf" id="2_81afr"]
 
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_vyp7g"]
@@ -48,9 +48,15 @@ grow_vertical = 2
 
 [node name="GridContainer" type="GridContainer" parent="Panel/Control"]
 layout_mode = 1
-anchors_preset = 15
-anchor_right = 1.0
-anchor_bottom = 1.0
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -387.5
+offset_top = -62.0
+offset_right = 397.5
+offset_bottom = 59.0
 grow_horizontal = 2
 grow_vertical = 2
 theme_override_constants/h_separation = 50
@@ -101,51 +107,6 @@ size_flags_vertical = 3
 theme_override_fonts/font = ExtResource("2_81afr")
 theme_override_font_sizes/font_size = 25
 text = "5"
-
-[node name="Level-6" type="Button" parent="Panel/Control/GridContainer"]
-custom_minimum_size = Vector2(50, 50)
-layout_mode = 2
-size_flags_horizontal = 3
-size_flags_vertical = 3
-theme_override_fonts/font = ExtResource("2_81afr")
-theme_override_font_sizes/font_size = 25
-text = "6"
-
-[node name="Level-7" type="Button" parent="Panel/Control/GridContainer"]
-custom_minimum_size = Vector2(50, 50)
-layout_mode = 2
-size_flags_horizontal = 3
-size_flags_vertical = 3
-theme_override_fonts/font = ExtResource("2_81afr")
-theme_override_font_sizes/font_size = 25
-text = "6"
-
-[node name="Level-8" type="Button" parent="Panel/Control/GridContainer"]
-custom_minimum_size = Vector2(50, 50)
-layout_mode = 2
-size_flags_horizontal = 3
-size_flags_vertical = 3
-theme_override_fonts/font = ExtResource("2_81afr")
-theme_override_font_sizes/font_size = 25
-text = "8"
-
-[node name="Level-9" type="Button" parent="Panel/Control/GridContainer"]
-custom_minimum_size = Vector2(50, 50)
-layout_mode = 2
-size_flags_horizontal = 3
-size_flags_vertical = 3
-theme_override_fonts/font = ExtResource("2_81afr")
-theme_override_font_sizes/font_size = 25
-text = "9"
-
-[node name="Level-10" type="Button" parent="Panel/Control/GridContainer"]
-custom_minimum_size = Vector2(50, 50)
-layout_mode = 2
-size_flags_horizontal = 3
-size_flags_vertical = 3
-theme_override_fonts/font = ExtResource("2_81afr")
-theme_override_font_sizes/font_size = 25
-text = "10"
 
 [node name="Label" type="Label" parent="Panel"]
 layout_mode = 1
