@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://nqbufpt8jdqj"
-path="res://.godot/imported/background_taleset.png-e627ea9f3d93c2fa46708bf5987a49a7.ctex"
+uid="uid://btgftt7a3vf3s"
+path="res://.godot/imported/treeforest.png-9ddc052beeac8012bac71074e928465a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Tiles/background_taleset.png"
-dest_files=["res://.godot/imported/background_taleset.png-e627ea9f3d93c2fa46708bf5987a49a7.ctex"]
+source_file="res://Assets/Tiles/treeforest.png"
+dest_files=["res://.godot/imported/treeforest.png-9ddc052beeac8012bac71074e928465a.ctex"]
 
 [params]
 

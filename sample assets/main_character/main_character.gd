@@ -1,10 +1,10 @@
 extends CharacterBody2D
 
 
-const SPEED = 200.0
+const SPEED = 400.0
 const SPRINT_SPEED = 500.0
 const DASH_SPEED = 800.0
-const JUMP_VELOCITY = -600.0
+const JUMP_VELOCITY = -700.0
 const DASH_DURATION = 0.2
 @onready var sprite_2d: AnimatedSprite2D = $Sprite2D
 

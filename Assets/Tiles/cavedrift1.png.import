@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dhx3h3jahqip2"
-path="res://.godot/imported/cavewall1.png-d7449a1c817ae52594fdd452be4c790a.ctex"
+uid="uid://df2hqasamxrpe"
+path="res://.godot/imported/cavedrift1.png-c15e013466c6067414ab0e1292c3102e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Tiles/cavewall1.png"
-dest_files=["res://.godot/imported/cavewall1.png-d7449a1c817ae52594fdd452be4c790a.ctex"]
+source_file="res://Assets/Tiles/cavedrift1.png"
+dest_files=["res://.godot/imported/cavedrift1.png-c15e013466c6067414ab0e1292c3102e.ctex"]
 
 [params]
 
