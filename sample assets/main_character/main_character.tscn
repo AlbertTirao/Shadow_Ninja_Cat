@@ -340,7 +340,6 @@ texture_filter = 1
 position = Vector2(31.875, -40.125)
 scale = Vector2(0.156641, 0.158984)
 sprite_frames = SubResource("SpriteFrames_lboml")
-animation = &"running"
 autoplay = "default"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
